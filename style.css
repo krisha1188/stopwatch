@@ -24,7 +24,12 @@ margin: 40px 0px 20px;
 	background: #00BF96; 
 	display: inline-block; 
 } 
-
+#clockdiv > div{ 
+	padding: 10px; 
+	border-radius: 3px; 
+	background: #00BF96; 
+	display: inline-block; 
+} 
 //////////
 #clockdiv div > span{ 
 	padding: 15px; 
